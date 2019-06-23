@@ -24,7 +24,7 @@
                                     <constraint firstAttribute="width" constant="162" id="E2r-mH-W2f"/>
                                     <constraint firstAttribute="height" constant="159" id="kUD-AW-jYu"/>
                                 </constraints>
-                                <state key="normal" title="Button" image="images (10)"/>
+                                <state key="normal" title="🥰" image="images (10)"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HuH-kV-mHF"/>
                                 </connections>
@@ -35,7 +35,7 @@
                                     <constraint firstAttribute="width" constant="185" id="1Vi-j0-IGT"/>
                                     <constraint firstAttribute="height" constant="160" id="bL1-fb-Pxo"/>
                                 </constraints>
-                                <state key="normal" title="Button" image="ButterflyEmoji"/>
+                                <state key="normal" title="🦋" image="ButterflyEmoji"/>
                                 <connections>
                                     <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Eh5-TN-KQd"/>
                                 </connections>
